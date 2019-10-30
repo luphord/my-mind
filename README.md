@@ -1,5 +1,7 @@
 # My Mind
 
+[App](https://rawcdn.githack.com/luphord/my-mind/a20f0b561d36f33c2c5bc286fc750e45a27e6f78/index.html)
+
 ![Screenshot](screenshot.png)
 
 My Mind is a web application for creating and managing Mind maps. It is free to use and you can fork its source code. It is distributed under the terms of the MIT license.
