@@ -67,3 +67,6 @@ push:
 
 clean:
 	@rm my-mind.js
+
+zip:
+	zip -r my-mind.zip css icons logo my-mind.js index.html
